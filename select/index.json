@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "オレンジ / THE FIRST TAKE",
+  "base_track": "オレンジ - Orange",
   "base_artist": "SPYAIR",
-  "createdAt": "2026-02-25T09:31:49.324276Z",
+  "createdAt": "2026-03-14T14:31:23.740382Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -47,74 +47,74 @@
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "オレンジ",
-      "artist": "96猫",
+      "title": "Orange (オレンジ)",
+      "artist": "7!!",
       "has_synced": true,
-      "path": "select/06_オレンジ_96猫.lrc"
+      "path": "select/06_Orange_(オレンジ)_7!!.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
       "title": "オレンジ",
-      "artist": "逢坂大河(CV:釘宮理恵),櫛枝実乃梨(CV:堀江由衣),川嶋亜美(CV:喜多村英梨)",
-      "has_synced": false,
-      "path": "select/07_オレンジ_逢坂大河(CV_釘宮理恵),櫛枝実乃梨(CV_堀江由衣),川嶋亜美(CV_喜多村英梨).txt"
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/07_オレンジ_96猫.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
       "title": "オレンジ",
-      "artist": "逢坂大河(CV: 釘宮理恵)・櫛枝実乃梨(CV: 堀江由衣)・川嶋亜美(CV: 喜多村英梨)",
+      "artist": "逢坂大河(CV:釘宮理恵),櫛枝実乃梨(CV:堀江由衣),川嶋亜美(CV:喜多村英梨)",
       "has_synced": false,
-      "path": "select/08_オレンジ_逢坂大河(CV__釘宮理恵)・櫛枝実乃梨(CV__堀江由衣)・川嶋亜美(CV__喜多村英梨).txt"
+      "path": "select/08_オレンジ_逢坂大河(CV_釘宮理恵),櫛枝実乃梨(CV_堀江由衣),川嶋亜美(CV_喜多村英梨).txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
       "title": "オレンジ",
-      "artist": "7!!",
-      "has_synced": true,
-      "path": "select/09_オレンジ_7!!.lrc"
+      "artist": "逢坂大河(CV: 釘宮理恵)・櫛枝実乃梨(CV: 堀江由衣)・川嶋亜美(CV: 喜多村英梨)",
+      "has_synced": false,
+      "path": "select/09_オレンジ_逢坂大河(CV__釘宮理恵)・櫛枝実乃梨(CV__堀江由衣)・川嶋亜美(CV__喜多村英梨).txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
       "title": "オレンジ",
-      "artist": "BONNIE PINK",
+      "artist": "7!!",
       "has_synced": true,
-      "path": "select/10_オレンジ_BONNIE_PINK.lrc"
+      "path": "select/10_オレンジ_7!!.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "オレンジ(オーケストラver.)",
-      "artist": "7!!",
+      "title": "オレンジ",
+      "artist": "BONNIE PINK",
       "has_synced": true,
-      "path": "select/11_オレンジ(オーケストラver.)_7!!.lrc"
+      "path": "select/11_オレンジ_BONNIE_PINK.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "オレンジ-Acoustic Ver.-",
+      "title": "オレンジ(オーケストラver.)",
       "artist": "7!!",
       "has_synced": true,
-      "path": "select/12_オレンジ-Acoustic_Ver.-_7!!.lrc"
+      "path": "select/12_オレンジ(オーケストラver.)_7!!.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "オレンジ (Acoustic Ver.)",
+      "title": "オレンジ-Acoustic Ver.-",
       "artist": "7!!",
       "has_synced": true,
-      "path": "select/13_オレンジ_(Acoustic_Ver.)_7!!.lrc"
+      "path": "select/13_オレンジ-Acoustic_Ver.-_7!!.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "Orange (オレンジ)",
+      "title": "オレンジ (Acoustic Ver.)",
       "artist": "7!!",
       "has_synced": true,
-      "path": "select/14_Orange_(オレンジ)_7!!.lrc"
+      "path": "select/14_オレンジ_(Acoustic_Ver.)_7!!.lrc"
     },
     {
       "id": "lrclib_15",
